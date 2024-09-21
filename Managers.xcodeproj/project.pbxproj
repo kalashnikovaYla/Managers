@@ -14,6 +14,8 @@
 		55778CB22C9F37B700B928D5 /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55778CB12C9F37B700B928D5 /* LocationManager.swift */; };
 		55778CB42C9F37E200B928D5 /* CacheLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55778CB32C9F37E200B928D5 /* CacheLoader.swift */; };
 		55778CB62C9F380200B928D5 /* ImageLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55778CB52C9F380200B928D5 /* ImageLoader.swift */; };
+		55EECA992C9F39B3006E69B7 /* ImageContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55EECA982C9F39B3006E69B7 /* ImageContainer.swift */; };
+		55EECA9B2C9F39D2006E69B7 /* AsyncImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55EECA9A2C9F39D2006E69B7 /* AsyncImageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +27,8 @@
 		55778CB12C9F37B700B928D5 /* LocationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationManager.swift; sourceTree = "<group>"; };
 		55778CB32C9F37E200B928D5 /* CacheLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CacheLoader.swift; sourceTree = "<group>"; };
 		55778CB52C9F380200B928D5 /* ImageLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageLoader.swift; sourceTree = "<group>"; };
+		55EECA982C9F39B3006E69B7 /* ImageContainer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageContainer.swift; sourceTree = "<group>"; };
+		55EECA9A2C9F39D2006E69B7 /* AsyncImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncImageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +65,8 @@
 				55778CA52C9F375600B928D5 /* ContentView.swift */,
 				55778CB12C9F37B700B928D5 /* LocationManager.swift */,
 				55778CB32C9F37E200B928D5 /* CacheLoader.swift */,
+				55EECA982C9F39B3006E69B7 /* ImageContainer.swift */,
+				55EECA9A2C9F39D2006E69B7 /* AsyncImageView.swift */,
 				55778CB52C9F380200B928D5 /* ImageLoader.swift */,
 				55778CA72C9F375800B928D5 /* Assets.xcassets */,
 				55778CA92C9F375800B928D5 /* Preview Content */,
@@ -151,6 +157,8 @@
 				55778CB62C9F380200B928D5 /* ImageLoader.swift in Sources */,
 				55778CB22C9F37B700B928D5 /* LocationManager.swift in Sources */,
 				55778CB42C9F37E200B928D5 /* CacheLoader.swift in Sources */,
+				55EECA992C9F39B3006E69B7 /* ImageContainer.swift in Sources */,
+				55EECA9B2C9F39D2006E69B7 /* AsyncImageView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
